@@ -280,5 +280,5 @@ Tan, M., & Le, Q. (2019). EfficientNet: Rethinking model scaling for convolution
 
 ---
 
-*End of Report*
+
 
