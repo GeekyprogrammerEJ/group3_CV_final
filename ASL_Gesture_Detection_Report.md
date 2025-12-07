@@ -262,12 +262,19 @@ Tan, M., & Le, Q. (2019). EfficientNet: Rethinking model scaling for convolution
 ## Figures and Tables
 
 *Note: Figures and tables referenced in the text should be included here. Due to the markdown format, actual visualizations would need to be generated from the notebook outputs and inserted as image files.*
-
+<img width="1789" height="515" alt="image" src="https://github.com/user-attachments/assets/cfc2c2d2-d789-4a19-b88f-d75dd45f8822" />
 **Figure 1.** Training history showing loss and accuracy curves across 50 epochs.
 
+
+<img width="1482" height="1390" alt="image" src="https://github.com/user-attachments/assets/853b8551-001d-4fb6-b63c-ce10453874cf" />
 **Figure 2.** Confusion matrix displaying classification performance across 24 ASL letter classes.
 
+
+<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/249316dc-f6eb-4d2d-8872-ffe841fb8ee7" />
+
 **Figure 3.** Per-class accuracy visualization showing performance for each letter.
+
+<img width="764" height="397" alt="image" src="https://github.com/user-attachments/assets/b38f3341-14c9-43f7-8bd3-7365a4dc9003" />
 
 **Figure 4.** Sample images from each ASL letter class in the dataset.
 
