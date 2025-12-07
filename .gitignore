@@ -1,5 +1,7 @@
-# Data folder
+# Data folder and dataset files
 data/
+*.csv
+sign_mnist_*/
 
 # Model files (large files)
 *.keras
