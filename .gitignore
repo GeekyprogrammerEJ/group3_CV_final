@@ -1,0 +1,52 @@
+# Data folder
+data/
+
+# Model files (large files)
+*.keras
+*.h5
+*.pb
+*.weights.h5
+asl_gesture_model_saved/
+
+# Logs
+logs/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.zip
+
+# Results and outputs
+model_results.json
+*.png
+*.jpg
+*.jpeg
+!README.md
